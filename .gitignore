@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MMseqs2 scratch folder (contains Linux symlinks)
+datasets/mmseqs_tmp/
+
+# Fasta files
+*.fasta
