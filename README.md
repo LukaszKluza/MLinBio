@@ -66,7 +66,7 @@ Merge the outputs of steps 1–2 into a single master file:
        --cov-mode 0
    ```
 
-2. Assign **whole clusters** to **train**, **eval** and **test** sets at a ratio of **9 : 1 : 1**.
+2. Assign **whole clusters** to **train**, **eval** and **test** sets at a ratio of **8 : 1 : 1**.
 
 ### Checklist
 
@@ -77,4 +77,4 @@ Merge the outputs of steps 1–2 into a single master file:
 - [ ] GAF vs. UniProt GO comparison done
 - [ ] FASTA file created
 - [ ] MMseqs2 clustering run
-- [ ] Cluster-aware 9:1:1 split produced
+- [ ] Cluster-aware 8:1:1 split produced
