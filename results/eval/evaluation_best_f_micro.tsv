@@ -1,0 +1,4 @@
+filename	ns	tau	n	tp	fp	fn	pr	rc	cov	mi	ru	f	s	pr_micro	rc_micro	f_micro	cov_max
+predictions_eval.csv	biological_process	0.990	567.000	17.106	226.120	16.668	0.072	0.550	1.000	226.120	16.668	0.127	226.733	0.070	0.506	0.124	1.000
+predictions_eval.csv	cellular_component	0.990	611.000	10.910	43.874	6.373	0.213	0.700	1.000	43.874	6.373	0.326	44.334	0.199	0.631	0.303	1.000
+predictions_eval.csv	molecular_function	0.990	470.000	4.451	81.726	7.002	0.053	0.443	1.000	81.726	7.002	0.094	82.025	0.052	0.389	0.091	1.000
